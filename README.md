@@ -1,29 +1,52 @@
-# Next.js + Tailwind CSS Example
+# 3D Tic-Tac-Toe
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+A modern twist on the classic game, built with Next.js and styled with Tailwind CSS.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+## Features
 
-## Preview
+- 3D game board for an immersive experience
+- Responsive design for desktop and mobile
+- Sleek UI powered by Tailwind CSS
+- Real-time game state management with Next.js
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+## Quick Start
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+1. Clone the repository
+2. Install dependencies:
+3. Run the development server:
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Deploy your own
+## Project Structure
+TIC-TAC-TOE-3D/
+├── .next/
+├── node_modules/
+├── pages/
+├── public/
+├── .gitignore
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── README.md
+└── tailwind.config.js
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Technologies Used
 
-## How to use
+- Next.js
+- Tailwind CSS
+- Three.js (for 3D rendering)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## Deployment
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+This project is ready to be deployed on Vercel or any other Next.js-compatible hosting platform.
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link-to-your-issues-page).
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+---
+
+Happy gaming! 🎮
