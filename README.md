@@ -16,19 +16,6 @@ A modern twist on the classic game, built with Next.js and styled with Tailwind 
 3. Run the development server:
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Project Structure
-TIC-TAC-TOE-3D/
-├── .next/
-├── node_modules/
-├── pages/
-├── public/
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── README.md
-└── tailwind.config.js
-
 
 ## Technologies Used
 
