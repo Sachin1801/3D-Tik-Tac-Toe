@@ -29,7 +29,8 @@ This project is ready to be deployed on Vercel or any other Next.js-compatible h
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link-to-your-issues-page).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Sachin1801/3D-Tik-Tac-Toe/issues).
+
 
 ## License
 
