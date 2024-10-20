@@ -2,8 +2,8 @@ import * as THREE from "three";
 
 import { useEffect } from "react";
 
-import SceneInit from "./lib/SceneInit";
-import TicTacToeCube from "./lib/TicTacToeCube";
+import SceneInit from '../lib/SceneInit';
+import TicTacToeCube from '../lib/TicTacToeCube';
 import { WireframeGeometry } from "three";
 
 export default function Home() {
