@@ -2,6 +2,11 @@
 
 A modern twist on the classic game, built with Next.js and styled with Tailwind CSS.
 
+## Live Demo
+
+You can play the game live at: [https://sachin-3-d-tik-tac-toe-1.vercel.app](https://sachin-3-d-tik-tac-toe-1.vercel.app)
+
+
 ## Features
 
 - 3D game board for an immersive experience
